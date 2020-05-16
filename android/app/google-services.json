@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687934819141",
+    "firebase_url": "https://rn-mobile-app-27b2d.firebaseio.com",
+    "project_id": "rn-mobile-app-27b2d",
+    "storage_bucket": "rn-mobile-app-27b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687934819141:android:b3dd7bdf7cc9f452854c2c",
+        "android_client_info": {
+          "package_name": "com.vekornapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687934819141-p1971rjjf5uiocidtbm1h9hvf5jushvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOlNFwzlMEioOSzKNJKM40oQY8_EAzPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687934819141-p1971rjjf5uiocidtbm1h9hvf5jushvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
