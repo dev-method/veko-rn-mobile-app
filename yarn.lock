@@ -3375,10 +3375,10 @@ hawk@~6.0.2:
     hoek "4.x.x"
     sntp "2.x.x"
 
-hermes-engine@0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/hermes-engine/-/hermes-engine-0.1.0.tgz#b43229a13f36c34dcb4a797afd1a6109043db674"
-  integrity sha512-XlFZpQeQlbeRBvVzUf+eNhg6mlhihgX/KHFuEhLFTEofxkBYA9FMy+YkIaplG6YuHzML8Vlbmg3YJIu7mFp0Rw==
+hermes-engine@0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/hermes-engine/-/hermes-engine-0.11.0.tgz#bb224730d230a02a5af02c4e090d1f52d57dd3db"
+  integrity sha512-7aMUlZja2IyLYAcZ69NBnwJAR5ZOYlSllj0oMpx08a8HzxHOys0eKCzfphrf6D0vX1JGO1QQvVsQKe6TkYherw==
 
 hermes-engine@^0.2.1:
   version "0.2.1"
